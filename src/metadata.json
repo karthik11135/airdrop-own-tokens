@@ -1,0 +1,14 @@
+{
+    "name": "Kart coin",
+    "symbol": "KAT",
+    "description": "A testing coin that is created by Karthik",
+    "image": "https://avatars.githubusercontent.com/u/105512128?v=4",
+    "attributes": [
+        {
+        "trait_type": "Category",
+        "value": "Utility Token"
+        }
+    ],
+    "external_url": "https://myproject.com",
+    "seller_fee_basis_points": 500
+}
